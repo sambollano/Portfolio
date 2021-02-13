@@ -1,42 +1,37 @@
-
-    :root {
-      --primary-color: #fce138;
-      --secondary-color: #024e76;
-      --tertiary-color: #39a6b2;
-    }
     
-      body {
-      font-family: Helvetica, Arial, sans-serif;  
-      }* {
+      * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
+      text-align: -webkit-center;
+      
       }
+      body {
+      font-family: Helvetica, Arial, sans-serif;  
+      }
+      
       /*Beginningletterstart*/
       p.intro::first-letter {
         color: #ff0000;
-        font-size: 200%;
+        font-size: 200%; }
       /*BeginningLetterend*/
-      /* HEADER / NAV BAR STYLES START */
-  
-      header {
-      width: 100%;
-      padding: 20px 35px;
-      background-color:lightslategrey;
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      position: sticky;
-      top: 0;
-      background-image: url("../i
       
-      mages/hero-bg.jpg");
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
-      background-position: 50%;
-      z-index: 9999;
-      }
+      /* HEADER / NAV BAR STYLES START */
+      .header {
+        width: 100%;
+        padding: 20px 35px;
+        background-color:lightslategrey;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        position: sticky;
+        top: 0;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-position: 50%;
+        z-index: 9999;
+        }
   
       header h1 {
       font-weight: bold;
@@ -215,7 +210,7 @@
       }
       
       .flex-row {
-      display: flex;
+      display: flow-root;
       text-align: center;
       }
   
