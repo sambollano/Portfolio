@@ -17,6 +17,6 @@ https://sambollano.github.io/Horiseon.Challange/
 https://sambollano.github.io/Taskinator/
 
 ## Contribution
-Made with ❤️ by [Samantha Arellano]
+Made with ❤️ by Samantha Arellano
 
 ### ©️2021 Portfolio
