@@ -1,14 +1,22 @@
 # Portfolio
 Advanced CSS Challenge: Professional Portfolio
 
+## Purpose
 We Are Making My Portfolio.
 
-Codes Used: .css .html
+## Built With
+* HTML
+* CSS
 
-MyProjects
-
-HoriseonChallange
+## Website
+* HoriseonChallange
 https://sambollano.github.io/Horiseon.Challange/ 
 
-Taskinator
+
+* Taskinator
 https://sambollano.github.io/Taskinator/
+
+## Contribution
+Made with ❤️ by [Samantha Arellano]
+
+### ©️2021 Portfolio
